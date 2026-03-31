@@ -3,13 +3,13 @@ A 4x4 macropad with an oled display! Calculator-inspired case and numpad firmwar
 
 <img width="678" height="547" alt="image" src="https://github.com/user-attachments/assets/5000a47e-c5ca-404c-a9e1-6a8ecabe5f01" />
 Img1: Full Macropad Assembly. PCB components including keys and Oled screen not in cad file. 
-
+\n
 <img width="441" height="543" alt="image" src="https://github.com/user-attachments/assets/e40361cf-e145-45da-a6c5-45cb286fd3e3" />
 Img2: PCB Front
-
+\n
 <img width="452" height="550" alt="image" src="https://github.com/user-attachments/assets/e017ac6e-fb05-40c8-bd30-68f8d4c35aa3" />
 Img3: PCB Back
-
+\n
 Features:
 Translucent case(or not if you choose to print in a non-translucent filament, but why not transparent tech???)
 128x32 OLED Display
