@@ -15,6 +15,13 @@ Img2: PCB Front
 
 Img3: PCB Back
 
+<img width="1443" height="650" alt="image" src="https://github.com/user-attachments/assets/2c0dc0c7-0b8e-4569-9c1e-75a1aec94497" />
+
+Img4: Schematic
+
+<img width="1389" height="738" alt="image" src="https://github.com/user-attachments/assets/7eb3758d-7128-4729-b761-f3a061566aad" />
+
+Img5: how Case fits together(it's pretty obvious anyways but sandwich method!)
 
 ===========================================================================================
 
